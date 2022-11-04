@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        
+    ],
+    "C_Cpp.autocompleteAddParentheses": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always"
+}
